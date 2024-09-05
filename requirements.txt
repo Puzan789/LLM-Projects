@@ -1,0 +1,10 @@
+langchain
+langchain_community
+langchain_core
+langchain_google_genai
+langchain_groq
+langchain_objectbox
+langserve
+python-dotenv
+Requests
+streamlit
